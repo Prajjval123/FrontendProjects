@@ -8,7 +8,7 @@ const Home = () => {
     <>
       <div className='home'>
         <main>
-            <h1>Tech Star</h1>
+            <h1>Home</h1>
             <p>Solution to all your problems</p>
         </main>
       </div>
@@ -16,21 +16,20 @@ const Home = () => {
         <img src={vg} alt="Graphics" />
         <div>
           <p>
-          We will understand each concept theoretically as well as practically. After understanding the concepts, we will create projects and do fun challenges.So make sure to subscribe to my channel, So you can't miss any updates.
+          I will understand each concept theoretically asIll as practically. After understanding the concepts, I will create projects and do fun challenges.So make sure to connect to me via linkedin.
           </p>
         </div>
       </div>
       <div className="home3" id='about'>
         <div>
-          <h1>Who we are?</h1>
+          <h1>Who I am?</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit accusantium doloribus, fugiat laborum vitae dolor omnis recusandae fugit, suscipit molestias inventore soluta, in deleniti eligendi temporibus dolorem eos labore repudiandae.
-          </p>
+            I am a web developer with a good knowlede in React and Javascript. I can develop dynamic webpages for your business. The websites will be attractive and device responsive</p>
         </div>
       </div>
       <div className="home4" id='brands'>
         <div>
-          <h1>Brand</h1>
+          <h1>Brands</h1>
           <article>
             <div
               style={{

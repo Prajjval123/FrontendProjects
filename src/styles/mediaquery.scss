@@ -80,8 +80,9 @@
         }
     }
     footer {
-        height: 50vh;
+        height: 60vh;
         grid-template-columns: 1fr;
+        margin-top: 200px;
         padding: 5rem;
         > div {
             align-items: center;
